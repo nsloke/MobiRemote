@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MobiRemote</string>
+    <string name="startService">Start Service</string>
+    <string name="stopService">Stop Service</string>
+    <string name="whitelist">Whitelist</string>
+    <string name="vpskey">Enter Passkey</string>
+    <string name="title_activity_whitelist">WhitelistActivity</string>
+</resources>
